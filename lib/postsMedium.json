@@ -1,0 +1,10 @@
+{
+  "firstname": "Albert",
+  "lastname": "Einstein",
+  "theories": {
+    "theory name1": "special relativity",
+    "theory name2": "general relativity"}
+  ,
+  "id": 3000,
+  "age": 55
+}
